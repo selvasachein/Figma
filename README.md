@@ -1,36 +1,37 @@
-# Ex09 Event Registration Web Application
+# Ex08 Event Registration Web Application
 ## Date:
 
 ## AIM:
-To design, develop and deploy a web application for event registration.
+To design, develop and deploy a web application for event registration using Figma UI tool.
+
+## UI DESIGN TOOL:
+Figma
 
 ## DESIGN STEPS:
 
 ### Step 1:
-Create a new frame.
+Use frames to represent screens or sections.
 
 ### Step 2:
-Select any one preset size of your choice.
+Add column grids for consistent spacing and alignment.
 
 ### Step 3:
-Select the shapes you need.
+Insert shapes, text, buttons, and icons.
 
 ### Step 4:
-Import images as needed.
+Use Auto Layout for flexible, responsive design.
 
 ### Step 5:
-Create pages based on your need and link them.
+Define color, text, and effect styles globally for consistency.
 
 ### Step 6:
-
-Validate the HTML and CSS code.
+Name layers logically and group related elements.
 
 ### Step 6:
+Link frames to show navigation or interactions.
 
-Publish the website in the given URL.
-
-## DESIGN TOOL:
-Figma
+### Step 7:
+Select the specific node to export when generating code using Anima plugin.
 
 ## CODE:
 
@@ -39,4 +40,4 @@ Figma
 
 
 ## RESULT:
-The program to design, develop and deploy a web application for event registration is completed successfully.
+The program to design, develop and deploy a web application for event registration using Figma UI tool is completed successfully.
