@@ -31,7 +31,7 @@ Name layers logically and group related elements.
 Link frames to show navigation or interactions.
 
 ### Step 7:
-Select the specific node to export when generating code using Anima plugin.
+Select the specific frame while generating code using Anima plugin.
 
 ## CODE:
 
